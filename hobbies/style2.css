@@ -1,0 +1,96 @@
+body {
+	background-color: lightblue;
+  }
+  
+  header {
+	  background-color:rgb(103, 35, 129);
+	  text-align: center;
+	  color: yellow;
+	  border-style: solid;
+	  border-color: black;
+	  font-family: Tahoma, Verdana, sans-serif;
+	  font-size: 80px;
+	  text-shadow: 2px 2px black;
+  }
+  
+  button {
+	  padding: 70px;
+	  text-align: center;
+	  color: rgb(202, 247, 4);
+	  border-style: solid;
+	  border-color: black;
+	  font-family: Tahoma, Verdana, sans-serif;
+	  font-size: 40px;
+	  text-shadow: 2px 2px purple;
+	  background-color:blue;
+	  margin-right: 50px;
+	  margin-left: 50px;
+  }
+  
+  div {   
+	  background: linear-gradient(to top, #0f617c 0%, #8b078060 100%);
+	  padding-top: 20px;
+	  padding-bottom: 20px;
+  }
+  
+  h1 {
+	color: purple;
+	font-family: Tahoma, Verdana, Sans-serif;
+	text-align: center;
+  }
+  
+  details {
+	  padding: 10px;
+	  color: darkblue;
+	  font-family: Tahoma, Verdana, Sans-serif;
+	  font-size: 20px;
+  }
+  
+  summary {
+	  font-style: tahoma, verdana, Sans-serif;
+	  color: darkblue;
+	  font-size: 20px; 
+  }
+  
+  img {
+	  border-radius: 30px;
+		padding: 10px;
+  }
+  
+  a:link {
+	color: rgb(41, 2, 41);
+  }
+  
+  a:visited {
+	color: darkblue;
+  }
+  
+  a:hover {
+	color: yellow;
+  }
+  
+  a:active {
+	color: blue;
+  }
+  
+  footer {
+	  text-align: center;
+	color: purple;
+  }
+  
+  #Hobby1 {
+	  margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
+  }
+  
+  #Hobby2 {
+	width: 600px;
+	margin: auto;
+	border: 6px solid purple;
+  }
+  
+  #Hobby3 {
+	  background-color: rgba(128, 0, 128, 0.397);
+  }
